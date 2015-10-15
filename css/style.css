@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+span {
+	border: 1px solid black;
+}
+
+span:hover {
+	cursor: pointer;
+	background-color: black;
+	color: white;
+}
+
+ul {
+	list-style: none;
+}
